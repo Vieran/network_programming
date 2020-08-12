@@ -1,5 +1,6 @@
 import socket
 import re
+import threading
 
 def service_client(new_socket):
     """为客户端返回数据"""
@@ -32,7 +33,7 @@ def service_client(new_socket):
         header += "\r\n"
         html_content = "<h1>What you need is not found, please try again!</h1>"
         new_socket.send(header.encode("utf-8"))
-        new_socket.send(html_content.encode("utf-8"))
+        new_socket.send(html_content)
     else:
         # 准备返回的header
         header = "HTTP/1.1 200 OK\r\n"
@@ -66,8 +67,9 @@ def main():
         new_socket, client_addr = tcp_sever_socket.accept()
 
         # 5.为用户服务
-        service_client(new_socket)
-    
+        p = threading.Thread(target=service_client, args=(new_socket, )) 
+        p.start()
+
     # 6.关闭监听套接字
     tcp_sever_socket.close()
 

@@ -13,7 +13,7 @@
 
 		div.img {opacity:0.79;border:10px solid rgba(0,0,0,0);}
 		div.img:hover{opacity:1.0;border:0px solid rgba(0,0,0,0);}
-		div.img img{width:20%;height:auto;}
+		div.img img{width:100%;height:auto;}
 		div.desc{padding:3px;text-align:center;}
 		* {box-sizing:border-box;}
 		.responsive{padding:10px 10px 30px;float:left;width:25%;}
@@ -36,8 +36,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/areoview.jpg" >
-		  	    <img src="/paperwall/areoview.jpg" alt="areoview" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/areoview.jpg" >
+		  	    <img src="/paperwall/areoview.jpg" alt="areoview" width="600" height="400">
             </a>
 			<div class="desc">areoview</div>
 		</div>
@@ -45,8 +45,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/cloud.jpg" >
-		  	    <img src="/paperwall/cloud.jpg" alt="cloud" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/cloud.jpg" >
+		  	    <img src="/paperwall/cloud.jpg" alt="cloud" width="600" height="400">
 		    </a>
 			<div class="desc">cloud</div>
 		</div>
@@ -54,8 +54,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/DeltaJunction.jpg" >
-		  	    <img src="/paperwall/DeltaJunction.jpg" alt="DeltaJunction" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/DeltaJunction.jpg" >
+		  	    <img src="/paperwall/DeltaJunction.jpg" alt="DeltaJunction" width="600" height="400">
 		    </a>
 			<div class="desc">DeltaJunction</div>
 		</div>
@@ -63,8 +63,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/high-in-cloud.jpg" >
-		  	    <img src="/paperwall/high-in-cloud.jpg" alt="high-in-cloud" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/high-in-cloud.jpg" >
+		  	    <img src="/paperwall/high-in-cloud.jpg" alt="high-in-cloud" width="600" height="400">
 		    </a>
 			<div class="desc">high-in-cloud</div>
 		</div>
@@ -72,8 +72,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/Hingincloud.jpg" >
-		  	    <img src="/paperwall/Hingincloud.jpg" alt="Hingincloud" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/Hingincloud.jpg" >
+		  	    <img src="/paperwall/Hingincloud.jpg" alt="Hingincloud" width="600" height="400">
 		    </a>
 			<div class="desc">Hingincloud</div>
 		</div>
@@ -81,8 +81,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/HuangshanClouds.jpg" >
-		  	    <img src="/paperwall/HuangshanClouds.jpg" alt="HuangshanClouds" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/HuangshanClouds.jpg" >
+		  	    <img src="/paperwall/HuangshanClouds.jpg" alt="HuangshanClouds" width="600" height="400">
 		    </a>
 			<div class="desc">HuangshanClouds</div>
 		</div>
@@ -90,8 +90,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/NaranjoBulnes.jpg" >
-		  	    <img src="/paperwall/NaranjoBulnes.jpg" alt="NaranjoBulnes" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/NaranjoBulnes.jpg" >
+		  	    <img src="/paperwall/NaranjoBulnes.jpg" alt="NaranjoBulnes" width="600" height="400">
 		    </a>
 			<div class="desc">NaranjoBulnes</div>
 		</div>
@@ -99,8 +99,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/QingMingHuangShan.jpg" >
-		  	    <img src="/paperwall/QingMingHuangShan.jpg" alt="QingMingHuangShan" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/QingMingHuangShan.jpg" >
+		  	    <img src="/paperwall/QingMingHuangShan.jpg" alt="QingMingHuangShan" width="600" height="400">
 		    </a>
 			<div class="desc">QingMingHuangShan</div>
 		</div>
@@ -108,8 +108,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/SouthMoravian.jpg" >
-		  	    <img src="/paperwall/SouthMoravian.jpg" alt="SouthMoravian" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/SouthMoravian.jpg" >
+		  	    <img src="/paperwall/SouthMoravian.jpg" alt="SouthMoravian" width="600" height="400">
 		    </a>
 			<div class="desc">SouthMoravian</div>
 		</div>
@@ -117,8 +117,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/tree.jpg" >
-		  	    <img src="/paperwall/tree.jpg" alt="tree" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/tree.jpg" >
+		  	    <img src="/paperwall/tree.jpg" alt="tree" width="600" height="400">
 		    </a>
 			<div class="desc">tree</div>
 		</div>
@@ -132,8 +132,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/Dongjiang.jpg" >
-		  	    <img src="/paperwall/Dongjiang.jpg" alt="Dongjiang" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/Dongjiang.jpg" >
+		  	    <img src="/paperwall/Dongjiang.jpg" alt="Dongjiang" width="600" height="400">
 		    </a>
 			<div class="desc">Dongjiang</div>
 		</div>
@@ -141,8 +141,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/ElkValleyVideo.jpg" >
-		  	    <img src="/paperwall/ElkValleyVideo.jpg" alt="ElkValleyVideo" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/ElkValleyVideo.jpg" >
+		  	    <img src="/paperwall/ElkValleyVideo.jpg" alt="ElkValleyVideo" width="600" height="400">
 		    </a>
 			<div class="desc">ElkValleyVideo</div>
 		</div>
@@ -150,8 +150,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/fairland.jpg" >
-		  	    <img src="/paperwall/fairland.jpg" alt="fairland" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/fairland.jpg" >
+		  	    <img src="/paperwall/fairland.jpg" alt="fairland" width="600" height="400">
 		    </a>
 			<div class="desc">fairland</div>
 		</div>
@@ -159,8 +159,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/InnerdalsvatnaVideo.jpg" >
-		  	    <img src="/paperwall/InnerdalsvatnaVideo.jpg" alt="InnerdalsvatnaVideo" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/InnerdalsvatnaVideo.jpg" >
+		  	    <img src="/paperwall/InnerdalsvatnaVideo.jpg" alt="InnerdalsvatnaVideo" width="600" height="400">
 		    </a>
 			<div class="desc">InnerdalsvatnaVideo</div>
 		</div>
@@ -168,8 +168,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/KalsoyIsland.jpg" >
-		  	    <img src="/paperwall/KalsoyIsland.jpg" alt="KalsoyIsland" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/KalsoyIsland.jpg" >
+		  	    <img src="/paperwall/KalsoyIsland.jpg" alt="KalsoyIsland" width="600" height="400">
 		    </a>
 			<div class="desc">KalsoyIsland</div>
 		</div>
@@ -177,8 +177,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/Knuthojdsmossen.jpg" >
-		  	    <img src="/paperwall/Knuthojdsmossen.jpg" alt="Knuthojdsmossen" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/Knuthojdsmossen.jpg" >
+		  	    <img src="/paperwall/Knuthojdsmossen.jpg" alt="Knuthojdsmossen" width="600" height="400">
 		    </a>
 			<div class="desc">Knuthojdsmossen</div>
 		</div>
@@ -186,8 +186,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/lake.jpg" >
-		  	    <img src="/paperwall/lake.jpg" alt="lake" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/lake.jpg" >
+		  	    <img src="/paperwall/lake.jpg" alt="lake" width="600" height="400">
 		    </a>
 			<div class="desc">lake</div>
 		</div>
@@ -195,8 +195,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/LavaFlows.jpg" >
-		  	    <img src="/paperwall/LavaFlows.jpg" alt="LavaFlows" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/LavaFlows.jpg" >
+		  	    <img src="/paperwall/LavaFlows.jpg" alt="LavaFlows" width="600" height="400">
 		    </a>
 			<div class="desc">LavaFlows</div>
 		</div>
@@ -204,8 +204,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/magic.jpg" >
-		  	    <img src="/paperwall/magic.jpg" alt="magic" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/magic.jpg" >
+		  	    <img src="/paperwall/magic.jpg" alt="magic" width="600" height="400">
 		    </a>
 			<div class="desc">magic</div>
 		</div>
@@ -213,8 +213,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/stone.jpg" >
-		  	    <img src="/paperwall/stone.jpg" alt="stone" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/stone.jpg" >
+		  	    <img src="/paperwall/stone.jpg" alt="stone" width="600" height="400">
 		    </a>
 			<div class="desc">stone</div>
 		</div>
@@ -222,8 +222,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/StormyCrater.jpg" >
-		  	    <img src="/paperwall/StormyCrater.jpg" alt="StormyCrater" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/StormyCrater.jpg" >
+		  	    <img src="/paperwall/StormyCrater.jpg" alt="StormyCrater" width="600" height="400">
 		    </a>
 			<div class="desc">StormyCrater</div>
 		</div>
@@ -231,8 +231,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/SutherlandFalls.jpg" >
-		  	    <img src="/paperwall/SutherlandFalls.jpg" alt="SutherlandFalls" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/SutherlandFalls.jpg" >
+		  	    <img src="/paperwall/SutherlandFalls.jpg" alt="SutherlandFalls" width="600" height="400">
 		    </a>
 			<div class="desc">SutherlandFalls</div>
 		</div>
@@ -240,8 +240,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/TrilliumLake.jpg" >
-		  	    <img src="/paperwall/TrilliumLake.jpg" alt="TrilliumLake" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/TrilliumLake.jpg" >
+		  	    <img src="/paperwall/TrilliumLake.jpg" alt="TrilliumLake" width="600" height="400">
 		    </a>
 			<div class="desc">TrilliumLake</div>
 		</div>
@@ -255,8 +255,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/BarHarborCave.jpg" >
-		  	    <img src="/paperwall/BarHarborCave.jpg" alt="BarHarborCave" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/BarHarborCave.jpg" >
+		  	    <img src="/paperwall/BarHarborCave.jpg" alt="BarHarborCave" width="600" height="400">
 		    </a>
 			<div class="desc">BarHarborCave</div>
 		</div>
@@ -264,8 +264,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/BulgariaPerseids.jpg" >
-		  	    <img src="/paperwall/BulgariaPerseids.jpg" alt="BulgariaPerseids" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/BulgariaPerseids.jpg" >
+		  	    <img src="/paperwall/BulgariaPerseids.jpg" alt="BulgariaPerseids" width="600" height="400">
 		    </a>
 			<div class="desc">BulgariaPerseids</div>
 		</div>
@@ -273,8 +273,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/MalhamStars.jpg" >
-		  	    <img src="/paperwall/MalhamStars.jpg" alt="MalhamStars" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/MalhamStars.jpg" >
+		  	    <img src="/paperwall/MalhamStars.jpg" alt="MalhamStars" width="600" height="400">
 		    </a>
 			<div class="desc">MalhamStars</div>
 		</div>
@@ -282,8 +282,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/NeistPoint.jpg" >
-		  	    <img src="/paperwall/NeistPoint.jpg" alt="NeistPoint" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/NeistPoint.jpg" >
+		  	    <img src="/paperwall/NeistPoint.jpg" alt="NeistPoint" width="600" height="400">
 		    </a>
 			<div class="desc">NeistPoint</div>
 		</div>
@@ -291,8 +291,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/WardCharcoalOvens.jpg" >
-		  	    <img src="/paperwall/WardCharcoalOvens.jpg" alt="WardCharcoalOvens" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/WardCharcoalOvens.jpg" >
+		  	    <img src="/paperwall/WardCharcoalOvens.jpg" alt="WardCharcoalOvens" width="600" height="400">
 		    </a>
 			<div class="desc">WardCharcoalOvens</div>
 		</div>
@@ -306,8 +306,8 @@
 	
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/BluebellWood.jpg" >
-		  	    <img src="/paperwall/BluebellWood.jpg" alt="BluebellWood" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/BluebellWood.jpg" >
+		  	    <img src="/paperwall/BluebellWood.jpg" alt="BluebellWood" width="600" height="400">
 		    </a>
 			<div class="desc">BluebellWood</div>
 		</div>
@@ -315,8 +315,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/forest.jpg" >
-		  	    <img src="/paperwall/forest.jpg" alt="forest" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/forest.jpg" >
+		  	    <img src="/paperwall/forest.jpg" alt="forest" width="600" height="400">
 		    </a>
 			<div class="desc">forest</div>
 		</div>
@@ -324,8 +324,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/MistyAshdown.jpg" >
-		  	    <img src="/paperwall/MistyAshdown.jpg" alt="MistyAshdown" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/MistyAshdown.jpg" >
+		  	    <img src="/paperwall/MistyAshdown.jpg" alt="MistyAshdown" width="600" height="400">
 		    </a>
 			<div class="desc">MistyAshdown</div>
 		</div>
@@ -333,8 +333,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/TrossachsAutumn.jpg" >
-		  	    <img src="/paperwall/TrossachsAutumn.jpg" alt="TrossachsAutumn" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/TrossachsAutumn.jpg" >
+		  	    <img src="/paperwall/TrossachsAutumn.jpg" alt="TrossachsAutumn" width="600" height="400">
 		    </a>
 			<div class="desc">TrossachsAutumn</div>
 		</div>
@@ -342,8 +342,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/YosemiteFog.jpg" >
-		  	    <img src="/paperwall/YosemiteFog.jpg" alt="YosemiteFog" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/YosemiteFog.jpg" >
+		  	    <img src="/paperwall/YosemiteFog.jpg" alt="YosemiteFog" width="600" height="400">
 		    </a>
 			<div class="desc">YosemiteFog</div>
 		</div>
@@ -357,8 +357,8 @@
 	
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/CumberlandIsland.jpg" >
-		  	    <img src="/paperwall/CumberlandIsland.jpg" alt="CumberlandIsland" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/CumberlandIsland.jpg" >
+		  	    <img src="/paperwall/CumberlandIsland.jpg" alt="CumberlandIsland" width="600" height="400">
 		    </a>
 			<div class="desc">CumberlandIsland</div>
 		</div>
@@ -366,8 +366,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/KuhmoLapland.jpg" >
-		  	    <img src="/paperwall/KuhmoLapland.jpg" alt="KuhmoLapland" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/KuhmoLapland.jpg" >
+		  	    <img src="/paperwall/KuhmoLapland.jpg" alt="KuhmoLapland" width="600" height="400">
 		    </a>
 			<div class="desc">KuhmoLapland</div>
 		</div>
@@ -375,8 +375,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/LamarStorm.jpg" >
-		  	    <img src="/paperwall/LamarStorm.jpg" alt="LamarStorm" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/LamarStorm.jpg" >
+		  	    <img src="/paperwall/LamarStorm.jpg" alt="LamarStorm" width="600" height="400">
 		    </a>
 			<div class="desc">LamarStorm</div>
 		</div>
@@ -384,8 +384,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/PascuaFlorida.jpg" >
-		  	    <img src="/paperwall/PascuaFlorida.jpg" alt="PascuaFlorida" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/PascuaFlorida.jpg" >
+		  	    <img src="/paperwall/PascuaFlorida.jpg" alt="PascuaFlorida" width="600" height="400">
 		    </a>
 			<div class="desc">PascuaFlorida</div>
 		</div>
@@ -399,8 +399,8 @@
 	
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/RealSnowflake.jpg" >
-		  	    <img src="/paperwall/RealSnowflake.jpg" alt="RealSnowflake" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/RealSnowflake.jpg" >
+		  	    <img src="/paperwall/RealSnowflake.jpg" alt="RealSnowflake" width="600" height="400">
 		    </a>
 			<div class="desc">RealSnowflake</div>
 		</div>
@@ -408,8 +408,8 @@
 
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/.jpg" >
-		  	    <img src="/paperwall/SloveniaAlps.jpg" alt="SloveniaAlps" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/.jpg" >
+		  	    <img src="/paperwall/SloveniaAlps.jpg" alt="SloveniaAlps" width="600" height="400">
 		    </a>
 			<div class="desc">SloveniaAlps</div>
 		</div>
@@ -423,8 +423,8 @@
 	
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/SneezeSpring.jpg" >
-		  	    <img src="/paperwall/SneezeSpring.jpg" alt="SneezeSpring" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/SneezeSpring.jpg" >
+		  	    <img src="/paperwall/SneezeSpring.jpg" alt="SneezeSpring" width="600" height="400">
 		    </a>
 			<div class="desc">SneezeSpring</div>
 		</div>
@@ -438,8 +438,8 @@
 	
 	<div class="responsive">
 		<div class="img">
-		    <a href="/paperwall/star.jpg" >
-		  	    <img src="/paperwall/star.jpg" alt="star" width="600px" >
+		    <a href="47.101.45.86:8677/paperwall/star.jpg" >
+		  	    <img src="/paperwall/star.jpg" alt="star" width="600" height="400">
 		    </a>
 			<div class="desc">star</div>
 		</div>
